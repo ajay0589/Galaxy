@@ -1,0 +1,50 @@
+Step1 : Install TestNG plugin in eclipse
+Step2: Add testng maven dependency in pom.xml
+Step3: Add TestNG library in buildpath
+
+
+
+Annotations:
+12
+
+
+
+@DataProvider
+@Parameter
+
+@Test
+
+@BeforeSuite
+@BeforeTest
+@BeforeGroup
+@BeforeClass
+@BeforeMethod
+
+@AfterSuite
+@AfterTest
+@AfterGroup
+@AfterClass
+@AfterMethod
+
+Assert statements
+
+testng.xml
+
+surefire plugin
+
+
+===================================
+
+TestNG Listeners
+Extent reports
+
+
+
+
+
+
+
+
+
+
+
