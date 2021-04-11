@@ -1,0 +1,24 @@
+Selenium,Java,TestNG,Cucumber,API Testing,SQL
+
+Maven,Git,Jenkins,Automation framework, Agile methodology
+
+
+
+Framework:
+
+POM - Page Object Model
+
+Keyword Driven
+Data Driven
+Hybrid
+
+http://demo.guru99.com/test/newtours/
+
+
+
+
+LoginPage
+HomePage
+FlightPage
+
+

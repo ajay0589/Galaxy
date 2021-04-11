@@ -31,6 +31,15 @@ public class OpenApp {
 		submitButton.click();
 		Thread.sleep(2000);
 
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		WebElement flightLink = driver.findElement(By.xpath("//a[text()='Flights']"));
 		flightLink.click();
 		Thread.sleep(2000);
